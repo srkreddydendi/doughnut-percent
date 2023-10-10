@@ -9,7 +9,7 @@
     "chart.js": "2.7.2",
     "ng2-charts": "1.6.0",
     "@angular/cdk": "6.0.2",
-    "@angular/core": "6.0.0",
+    "@angular/core": "10.2.5",
     "@angular/forms": "6.0.0",
     "@angular/common": "6.0.0",
     "@angular/router": "6.0.0",
